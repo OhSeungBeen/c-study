@@ -27,5 +27,50 @@
     <ClCompile Include="step04.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="step05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step17.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step18.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step19.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
