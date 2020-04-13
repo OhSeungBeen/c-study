@@ -1,4 +1,4 @@
-// ÁßÃ¸ ¹Ýº¹¹®
+// 별찍기
 #include<stdio.h>
 
 int main(void) {

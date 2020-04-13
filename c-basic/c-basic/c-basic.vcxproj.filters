@@ -18,9 +18,6 @@
     <ClCompile Include="..\..\..\..\Desktop\step02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="step01.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="step03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -109,6 +106,45 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="step32.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="step33.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07\step01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch01\step01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07\step02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07\step03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07\step04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07\step05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08\step01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08\step02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08\step03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08\step04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08\step05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09\step01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
