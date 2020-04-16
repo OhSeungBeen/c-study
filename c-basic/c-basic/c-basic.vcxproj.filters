@@ -165,5 +165,44 @@
     <ClCompile Include="ch09\step08.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch10\step01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\step02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\step03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\step04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\step05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\step06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\step07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\step08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch11\step01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch11\step02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch11\step03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch11\step04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch11\step05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
