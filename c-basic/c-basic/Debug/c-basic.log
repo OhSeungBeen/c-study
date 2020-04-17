@@ -1,3 +1,2 @@
 ﻿  step05.c
-C:\Users\pc\git\c-study\c-basic\c-basic\ch11\step05.c(10,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c-basic.vcxproj -> C:\Users\pc\git\c-study\c-basic\Debug\c-basic.exe
